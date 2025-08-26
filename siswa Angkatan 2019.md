@@ -6,7 +6,7 @@
    Alamat : Jln. Loa Bakung RT.21 No.04
  
 2. Nama   : Erna Mulyani
-   NIM    : H2020000002
+   NIM    : H202000006
    JK     : Perempuan
    Agama  : Islam
    TTL    : Samarinda, 02 Juni 2003
@@ -30,3 +30,4 @@
    NIM    : H2020000005
    JK     : Laki - Laki
    Agama  : Islam
+   Alamat : Jln. Jakarta RT.14 No.33
